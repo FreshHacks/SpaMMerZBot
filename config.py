@@ -1,5 +1,6 @@
+import os
 # Token from https://discord.com/developers/applications
-token = "NzY1MzE2NzEyNjM1MDM5Nzcz.X4TCuw.NR7yrDQp6SBzFkN0hsRPoeh_pN0"
+token = os.environ.get('BOT_TOKEN')
 
 # Bot prefix
 prefix = "!"
