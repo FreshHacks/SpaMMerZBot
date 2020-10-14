@@ -1,3 +1,5 @@
+# By N3Kostya_
+
 import config
 import discord
 import asyncio
